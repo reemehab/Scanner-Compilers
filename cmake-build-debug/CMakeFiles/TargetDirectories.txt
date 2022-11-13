@@ -1,0 +1,3 @@
+D:/level 4/Compilers/assignments/1/code/cmake-build-debug/CMakeFiles/code.dir
+D:/level 4/Compilers/assignments/1/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/level 4/Compilers/assignments/1/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
